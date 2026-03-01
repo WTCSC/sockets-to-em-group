@@ -43,3 +43,7 @@ Enter the server IP address (or localhost) and the same port number used by the 
 ## Licensing and Configuration
 
 There is none
+
+## Demonstration Video
+
+https://raw.githubusercontent.com/WTCSC/sockets-to-em-group/main/TicTacToe.mp4
